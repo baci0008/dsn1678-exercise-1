@@ -46,11 +46,11 @@ img {
 	padding-left: 5%;
 }
 
-div.wrapper{  
+.wrapper {  
     position:relative;
 }  
 
-div.description{  
+.description{  
     position:absolute; 
     bottom:10px; 
     left:0px;  
